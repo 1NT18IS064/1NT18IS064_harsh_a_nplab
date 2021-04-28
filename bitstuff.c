@@ -110,5 +110,6 @@ void receiver(int *result,int l2)
 		printf("%d",mesg[i]);
 	}
 }
+
 	
 		
